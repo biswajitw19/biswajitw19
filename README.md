@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @biswajitw19
-- 👀 I’m interested in DataScience(ML & AI)
 - 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DataScience Project
 - 📫 How to reach me biswajitw19@gmail.com
 
 <!---
