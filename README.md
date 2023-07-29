@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @biswajitw19
-- 🌱 I’m currently learning DataScience
-- 💞️ I’m looking to collaborate on DataScience Project
 - 📫 How to reach me biswajitw19@gmail.com
 
 <!---
